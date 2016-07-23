@@ -1,0 +1,6 @@
+{
+  "name": "Phpmemtest",
+  "tagline": "",
+  "body": "PHP CLI script to measure a function's processing time and peak memory allocation.\r\n\r\nDefault 1,000,000 iterations to average time.\r\n\r\n# Usage\r\n\r\n    php get_time_peak_mem.php <script> <function> <parameter> [<iterations>]\r\n\r\n# Example\r\n\r\n    php get_time_peak_mem.php fun.php test_me hello\r\n\r\nOutput:\r\n\r\n>     Time (ms):   1.4238095283508E-7\r\n>     Peak Memory: 246240\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
